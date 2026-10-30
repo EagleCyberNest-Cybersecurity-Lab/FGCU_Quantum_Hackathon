@@ -8,7 +8,7 @@ Bring a problem you care about, meet teammates, and explore what quantum computi
 
 You can contribute by coding, researching a problem, testing an idea, interpreting results, designing a demo, or explaining the work. Teams of **2–4 students** will learn and build together.
 
-[**Register on Deepstation.ai**](https://tinyurl.com/fgcu-quantum) · [**Participant Handbook**](PARTICIPANT_HANDBOOK.md) · [**Notebook Catalog**](NOTEBOOK-CATALOG.md) · [**Join the chat**](https://discord.gg/vz6uTbtJzR)
+[**Register on Deepstation.ai**](https://tinyurl.com/fgcu-quantum) · [**Participant Handbook**](PARTICIPANT_HANDBOOK.md) · [**Notebook Catalog**](NOTEBOOK-CATALOG.md) · [**Join the chat**](https://discord.gg/uN6WDVuXw)
 
 If prompted for an event code, enter **QUANTUMEAGLE**.
 
