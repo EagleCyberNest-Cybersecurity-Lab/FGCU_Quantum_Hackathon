@@ -98,7 +98,7 @@ If you need help with equipment or accessibility, contact the organizing team in
 
 ## Questions or need a hand?
 
-Ask in the [**event chat**](https://discord.gg/vz6uTbtJzR) or speak with the FGCU organizers during the in-person sessions.
+Ask in the [**event chat**](https://discord.gg/uN6WDVuXw) or speak with the FGCU organizers during the in-person sessions.
 
 * [IBM Quantum documentation](https://quantum.cloud.ibm.com/docs)
 * [Qiskit Slack](https://qisk.it/join-slack)
