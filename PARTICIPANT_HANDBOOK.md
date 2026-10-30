@@ -38,7 +38,7 @@ Teams consist of **2–4 students**. Students from all majors and experience lev
 **Before kickoff:**
 
 - [ ] Register through [Deepstation.ai](https://deepstation.ai) using <https://tinyurl.com/fgcu-quantum>. If prompted, enter **QUANTUMEAGLE**.
-- [ ] Join the [event chat](https://discord.gg/vz6uTbtJzR).
+- [ ] Join the [event chat](https://discord.gg/uN6WDVuXw).
 - [ ] Create an IBM Quantum Platform account (§4) and a GitHub account (§6).
 - [ ] Read §2 and §3, and bring an initial problem or application idea.
 - [ ] If you will implement circuits or code, review §5 and test your environment.
@@ -571,7 +571,7 @@ Either the API key is wrong, or you're using a bearer token where the API key be
 Check the region switcher at the top of the dashboard — Open Plan instances exist only in `us-east`. If you're looking at `eu-de`, you'll see nothing.
 
 **Compilation errors during `pip install`.**
-Your platform has no prebuilt wheel. Check you're on 64-bit Python 3.10+. Ask in the [event chat](https://discord.gg/vz6uTbtJzR) before you start installing Rust toolchains.
+Your platform has no prebuilt wheel. Check you're on 64-bit Python 3.10+. Ask in the [event chat](https://discord.gg/uN6WDVuXw) before you start installing Rust toolchains.
 
 **Jobs sitting in the queue forever.**
 Normal at peak times — it's a shared fair-share queue. Use `service.least_busy(operational=True, simulator=False)` and check <https://quantum.cloud.ibm.com/computers>. Meanwhile, keep working against the local simulator.
@@ -579,14 +579,14 @@ Normal at peak times — it's a shared fair-share queue. Use `service.least_busy
 **Code from a tutorial you found online just doesn't work.**
 Check its date. Anything using `channel="ibm_quantum"`, `IBMQ.load_account()`, `execute()`, or `qiskit.Aer` predates the current API. See the warning in §4.1.
 
-**Still stuck:** the [event chat](https://discord.gg/vz6uTbtJzR), and post the actual error text, not "it doesn't work." Screenshots of terminals are harder to help with than pasted text.
+**Still stuck:** the [event chat](https://discord.gg/uN6WDVuXw), and post the actual error text, not "it doesn't work." Screenshots of terminals are harder to help with than pasted text.
 
 ---
 
 ## 10. Support and community
 
 - **Registration and final submissions:** [Deepstation.ai](https://deepstation.ai) via <https://tinyurl.com/fgcu-quantum>; event code **QUANTUMEAGLE** if prompted.
-- **Event chat:** <https://discord.gg/vz6uTbtJzR>
+- **Event chat:** <https://discord.gg/uN6WDVuXw>
 - **Organizers:** contact the FGCU Quantum Hackathon organizing team through the event chat or during the in-person sessions.
 - **Qiskit Slack:** <https://qisk.it/join-slack>, the global Qiskit community
 - **Qiskit YouTube:** <https://www.youtube.com/qiskit>
