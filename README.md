@@ -17,7 +17,7 @@ If prompted for an event code, enter **QUANTUMEAGLE**.
 ## Start here
 
 1. **Register** through [https://tinyurl.com/fgcu-quantum](https://tinyurl.com/fgcu-quantum) on [Deepstation.ai](https://deepstation.ai).
-2. **Join the** [**event chat**](https://discord.gg/vz6uTbtJzR) for questions and event communication.
+2. **Join the** [**event chat**](https://discord.gg/uN6WDVuXw) for questions and event communication.
 3. **Read the** [**Participant Handbook**](PARTICIPANT_HANDBOOK.md) for project ideas, team roles, setup, submission requirements, and the full schedule.
 4. **Explore the** [**Notebook Catalog**](NOTEBOOK-CATALOG.md) for visual tools, introductory examples, and notebooks you can read, run, or adapt.
 5. **Come to kickoff with an idea or a question.** You do not need a team beforehand; we will have a team formation session.
